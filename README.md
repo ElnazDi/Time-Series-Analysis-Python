@@ -1,5 +1,7 @@
 ## Time-Series-Analysis-Python
 
+<b>Please Refer to the Project Report and Project Diary :) </b>
+
 ### Main concepts in this area and exercise:
 1. Satationary
 2. Detrending: By differencing | By Model fitting
